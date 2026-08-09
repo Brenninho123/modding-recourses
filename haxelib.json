@@ -1,0 +1,11 @@
+{
+  "name": "modding-recourses",
+  "url": "https://github.com/Brenninho123/modding-recourses",
+  "license": "Apache",
+  "tags": ["modding", "haxeflixel", "cross"],
+  "description": "A modding utility library for Haxe games and engines.",
+  "version": "0.0.1",
+  "releasenote": "Initial release.",
+  "contributors": ["Brenninho123"],
+  "dependencies": {}
+}
